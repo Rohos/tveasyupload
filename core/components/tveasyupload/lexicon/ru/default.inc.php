@@ -25,6 +25,6 @@ $_lang['tveasyupload.clear_file'] = 'Удалить значение';
 
 // Errors
 $_lang['tveasyupload.error_tvid_ns'] = 'СИСТЕМНАЯ ОШИБКА: modTemplateVar ID не существует';
-$_lang['tveasyupload.error_tvid_invalid'] = 'СИСТЕМНАЯ ОШИБКА: не корректный modTemplateVar';
+$_lang['tveasyupload.error_tvid_invalid'] = 'СИСТЕМНАЯ ОШИБКА: некорректный modTemplateVar';
 
 $_lang['tveasyupload.err_file_ns'] = 'Ошибка: файл не загружен';
